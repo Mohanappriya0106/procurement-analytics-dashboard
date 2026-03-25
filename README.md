@@ -27,5 +27,7 @@ This project analyzes supply chain data to identify inefficiencies, high-cost ar
 ## Dashboard Preview
 
 ![Dashboard](ss1.png)
+
 ![Dashboard](ss2.png)
+
 ![Dashboard](ss3.png)
